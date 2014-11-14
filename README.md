@@ -2,6 +2,8 @@ MEOS WxT Shiny
 =========
 Theme for the MEOS WxT Drupal Installer to provide a more visually appealing first impression with MEOS branding.
 
+http://meos.ch
+
 Key Features
 ------------
 
