@@ -1,3 +1,5 @@
+This theme as a sub theme of the Wetkit Shiny theme for MEOS http://meos.ch.
+
 Sub-themes are just like any other theme, with one difference: They inherit the parent theme's resources. There are no limits on the chaining capabilities connecting sub-themes to their parents. A sub-theme can be a child of another sub-theme, and it can be branched and organized however you see fit. This is what gives sub-themes great potential.
 
 The script "subtheme-creator" that created the base files and folders for your new sub-theme did a lot of the mundane work in creating this new sub-theme.
