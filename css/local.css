@@ -17,3 +17,6 @@
 /* the following line:  stylesheets[all][] = css/local.css  */
 /* 3. Clear cached data at admin/settings/performance       */
 
+body.in-maintenance .body-wrapper .page-outer {
+  background: #0069B4;
+  padding: 40px 0; }
