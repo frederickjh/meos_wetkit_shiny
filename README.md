@@ -1,6 +1,6 @@
-WxT Shiny
+MEOS WxT Shiny
 =========
-Theme for the Drupal Installer to provide a more visually appealing first impression.
+Theme for the MEOS WxT Drupal Installer to provide a more visually appealing first impression with MEOS branding.
 
 Key Features
 ------------
