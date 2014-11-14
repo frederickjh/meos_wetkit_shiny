@@ -1,9 +1,21 @@
-This theme as a sub theme of the Wetkit Shiny theme for MEOS http://meos.ch.
+WxT Shiny
+=========
+Theme for the Drupal Installer to provide a more visually appealing first impression.
 
-Sub-themes are just like any other theme, with one difference: They inherit the parent theme's resources. There are no limits on the chaining capabilities connecting sub-themes to their parents. A sub-theme can be a child of another sub-theme, and it can be branched and organized however you see fit. This is what gives sub-themes great potential.
+Key Features
+------------
 
-The script "subtheme-creator" that created the base files and folders for your new sub-theme did a lot of the mundane work in creating this new sub-theme.
+* Custom installation theme
 
-Creating a sub-theme
+Acknowledgements
+----------------
 
-A sub-theme must have a different internal name (i.e., the name used by Drupal) from its parent theme. This name must not contain any spaces or other special characters. The name of your sub-theme must start with an alphabetic character and can only contain lowercase letters, numbers and underscores. Let's suppose this sub-theme internal name is "my_subtheme".
+Based on the work done in the Drupal [Commerce Kickstart][commerce_kickstart] Distro and a port from [Shiny][shiny]:
+
+  * Aaron Dudenhofer [(dudenhofer)][dudenhofer]
+
+<!-- Links Referenced -->
+
+[dudenhofer]:                 http://drupal.org/user/254160
+[commerce_kickstart]:         http://www.drupal.org/project/commerce_kickstart
+[shiny]:                      http://www.drupal.org/project/shiny
