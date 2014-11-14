@@ -1,0 +1,13 @@
+name = MEOS Wetkit Shiny
+project = meoswetkit_shiny
+description = Sub-theme of wetkit_shiny: MEOS Wxt Shiny Installation Themee
+core = 7.x
+base theme = wetkit_shiny
+stylesheets[all][] = css/local.css
+regions[content] = Content
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[sidebar_first] = First sidebar
+regions_hidden[] = sidebar_first
+; This sub-theme directory was created by the subtheme-creator script on Thu Aug 28 19:11:35 CEST 2014

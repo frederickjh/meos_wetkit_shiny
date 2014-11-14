@@ -1,0 +1,19 @@
+
+/* : local.css 7156 2014-08-21 21:40:17Z frederickjh $ */
+
+/****************************/
+/* LOCAL CSS                */
+/****************************/
+
+/* Put your custom CSS and CSS overrides in this file.      */
+/* By restricting your CSS changes to local.css,            */
+/* your changes will not be overwritten when                */
+/* upgrading to a new version of the base theme. You can    */
+/* also use a local-rtl.css file for the equivalent in RTL. */
+
+/* Steps to activate local.css:                             */
+/* 1. Add your custom CSS to this file                      */
+/* 2. Add local.css to the sub-theme's .info file by adding */
+/* the following line:  stylesheets[all][] = css/local.css  */
+/* 3. Clear cached data at admin/settings/performance       */
+
