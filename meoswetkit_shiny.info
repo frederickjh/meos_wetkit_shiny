@@ -1,9 +1,12 @@
-name = MEOS Wetkit Shiny
-project = meoswetkit_shiny
-description = Sub-theme of wetkit_shiny: MEOS Wxt Shiny Installation Themee
+name = MEOS WetKit Shiny
+description = A simple theme to be used exclusively with the installer.
 core = 7.x
-base theme = wetkit_shiny
+stylesheets[screen][] = css/reset.css
+stylesheets[screen][] = css/style.css
+stylesheets[screen][] = css/contrib.css
+stylesheets[all][] = css/shiny.css
 stylesheets[all][] = css/local.css
+settings[shortcut_module_link] = 1
 regions[content] = Content
 regions[help] = Help
 regions[page_top] = Page top
